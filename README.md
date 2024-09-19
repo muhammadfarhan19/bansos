@@ -1,8 +1,16 @@
 # Bantuan Sosial (Bansos) Form Application
 
+## Introduction
+
+Hi, **I'm Muhammad Farhan Hamidie**.
+
+And I'm a Junior Web Developer. You can check out my [portfolio](https://muhfarhan.vercel.app) or my [linkedin](https://www.linkedin.com/in/muhammad-farhan-18bb1b235/).
+
+I'm currently applying for a Web Developer position at CV Lingkar Rasio Teknologi.
+
 ## Overview
 
-The Bantuan Sosial (Bansos) Form Application is a web application developed using Next.js, TypeScript, and Tailwind CSS. This application allows users to submit a social aid form, review the submitted data on a preview page, and simulate a backend submission. It includes a form with various input fields, file uploads, and dynamic data fetching.
+This project is a Bansos (Social Aid) Form Application built with Next.js, TypeScript, and Tailwind CSS. The application allows admins to input various required data for social aid recipients and simulate submission to a backend. It includes dynamic features like file uploads and real-time data previews.
 
 ## Features
 
